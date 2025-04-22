@@ -2,6 +2,8 @@
 
 This Streamlit app analyzes WhatsApp chat data, providing insights such as message statistics, timelines, activity maps, word clouds, and emoji analysis.
 
+![Architecture Diagram](whats.png)
+
 ## Features
 
 - **Total Messages, Words, Media Shared, Links Shared**: Displays key statistics based on selected user.
